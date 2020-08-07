@@ -1,24 +1,8 @@
-# README
+# Simple Upload Management with Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is only a fun and learning project to learn how I can modify RoR to permit users upload files as they're creating entities. It can be useful for future projects of mine. 
 
-Things you may want to cover:
+## Related documents 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [File uploads using ruby on rails](https://www.tutorialspoint.com/ruby-on-rails/rails-file-uploading.htm)
+* [Carrier Wave gem](https://github.com/carrierwaveuploader/carrierwave)
